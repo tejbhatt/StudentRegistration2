@@ -1,5 +1,7 @@
 # StudentRegistration-CRUDAPP(ReactJS as Front-End and RubyonRails as Backend)
 
+## Deployed - https://studentregistrationnn.herokuapp.com/
+
 ### How to Run repo on your pc:
 - git clone {repo-name}
 - cd repo-name
